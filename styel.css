@@ -251,7 +251,7 @@ input[name="r"]{
   display: flex;
 }
 .content{
-  background-color: aqua;
+  background-color: rgb(250, 192, 0);
   flex: 70%;
   height: auto;
 }

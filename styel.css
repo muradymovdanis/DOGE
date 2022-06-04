@@ -4,10 +4,10 @@ padding: 2px;
 height: 100px;
  font-family: 'Anton', sans-serif;
   
-  display:flex
-  flex-direction:column
-  justfy-content:auto
-   align-items:center
+ display: flex;
+ flex-direction: column;
+ justify-content: auto;
+ align-items: center;
  }
 
 p{
